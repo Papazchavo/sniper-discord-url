@@ -1,1 +1,1 @@
-# sniper-discord-url
+# Discord URL Sniper V6 
