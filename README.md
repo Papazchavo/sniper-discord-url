@@ -4,4 +4,4 @@ Discord url Sniper Python mödül indirimi yapan ve çaliştırın bunu da nası
 
 Mödül indirim şöyle ```Pip install,python install```
 
-# - papazchavo. Ulaşa bilirsiniz 
+- Olan Bebekler ```papazchavo.,cimidi,ramal.``` Bebeklerim
